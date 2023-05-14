@@ -1,0 +1,10 @@
+.main {
+    height: -webkit-fill-available;
+    height: 100%;
+    text-align: center;
+    padding: 2em;
+}
+
+.main h2 {
+    margin-bottom: 0.8em;
+}
